@@ -8,11 +8,15 @@
         "type": "tabs",
         "children": [
           {
-            "id": "86a45342f6c958a0",
+            "id": "42c938198864c4cf",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Kalderath/Artifactler/Hapsolmuş Hayaller Asası.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Kalderath/Artifactler/Hapsolmuş Hayaller Asası.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Kalderath/Artifactler/Hapsolmuş Hayaller Asası.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Kalderath/Artifactler/Hapsolmuş Hayaller Asası.md"
+              }
             }
           }
         ]
@@ -139,17 +147,17 @@
       "canvas:Create new canvas": false
     }
   },
-  "active": "d26c34c3a7680818",
+  "active": "42c938198864c4cf",
   "lastOpenFiles": [
-    "Nine Hells/Güneş ve Ay/Güneş/Güneş Bebeği.md",
-    "Nine Hells/Güneş ve Ay/Ay/Ay Bebeği.md",
-    "Kalderath/Yadigarlar/Ateş.md",
-    "ASdasdasd/SDadasd.md",
-    "Nine Hells/Güneş ve Ay/Güneş/jr-eisma-sunbaby.jpg",
-    "Başlıksız.md",
-    "Nine Hells/Lazanya/Kedi.md",
-    "Nine Hells/Güneş ve Ay/Ay/jr-eisma-moonbaby.jpg",
-    "0 Noktası Ve Olaylar/Olay Örgüsü 1.canvas",
-    "Kalderath/Şehirler/Hepsi tek yerde.canvas"
+    "Kalderath/Artifactler/Gecenin Kucaklaması.md",
+    "Kalderath/Artifactler/Akrep ve Yelkovan.md",
+    "Kalderath/Artifactler/Hiroshi (cömert).md",
+    "Kalderath/Artifactler/Aptal Tanrının Şarap Çanağı.md",
+    "Kalderath/Artifactler/Morted eye glove.md",
+    "Kalderath/Artifactler/Başlıksız 29.md",
+    "Kalderath/Artifactler/Başlıksız 28.md",
+    "Kalderath/Artifactler/Başlıksız 27.md",
+    "Kalderath/Artifactler/Başlıksız 26.md",
+    "Kalderath/Artifactler/Başlıksız 25.md"
   ]
 }
