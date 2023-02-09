@@ -1,0 +1,3 @@
+Hayata gelen ilk şey evrendi. 1. Var olan. 1. Olarak doğmuş olan. Yokluktan var olan evrenin ilk amacı genişemek ve büyümekti. Simsiyah karanlık ve tamamen boşluğun oluştuğu evren, hep büyümek için, daha kendisi olmadıgı zaman ki boşluğu doldurmak için başka bir olmayan siyah boşluk olarak durmadan gelişti. O daha doğmadan önceki hiçliği simsiyah boşlukla doldurmaktı amacı ve hiç durmaksızın bilinçsizce büyüdü ve büyüdü.
+
+Hiçbir bilinici olmadan, sanki o buymuşcasına büyüyüp gelişti. Neyin onu bu duruma soktuğunu, neyin sonucu olduğunu bilmeden, kendisi var ve yok arasında gözleri kapalı büyüdü ve büyüdü

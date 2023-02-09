@@ -1,0 +1,17 @@
+{
+	"nodes":[
+		{"id":"72ad88365c3d6a98","x":-739,"y":-762,"width":400,"height":400,"type":"file","file":"Kalderath/Yadigarlar/Doğa.md"},
+		{"id":"28d2e275aaf77855","x":-278,"y":-762,"width":400,"height":400,"type":"file","file":"Kalderath/Yadigarlar/Deniz.md"},
+		{"id":"1b644a3228131c86","x":189,"y":-762,"width":400,"height":400,"type":"file","file":"Kalderath/Yadigarlar/Buz.md"},
+		{"id":"76613e423221f749","x":-739,"y":-289,"width":400,"height":400,"type":"file","file":"Kalderath/Yadigarlar/Ay.md"},
+		{"id":"0eac5351a22f7f08","x":-278,"y":-289,"width":400,"height":400,"type":"file","file":"Kalderath/Yadigarlar/Ateş.md"},
+		{"id":"0b0728497bb81207","x":189,"y":-289,"width":400,"height":441,"type":"file","file":"Kalderath/Yadigarlar/Gölge.md"},
+		{"id":"89da8e10ba8d17d3","x":-739,"y":194,"width":400,"height":400,"type":"file","file":"Kalderath/Yadigarlar/İllüzyon.md"},
+		{"id":"ff33907b0512b52d","x":-278,"y":194,"width":400,"height":400,"type":"file","file":"Kalderath/Yadigarlar/Kan.md"},
+		{"id":"b17fdb49b99589d8","x":189,"y":194,"width":400,"height":400,"type":"file","file":"Kalderath/Yadigarlar/Kişilik.md"},
+		{"id":"90ad503d5deef20c","x":-739,"y":654,"width":400,"height":400,"type":"file","file":"Kalderath/Yadigarlar/Kristal.md"},
+		{"id":"2142ea4b93c101c7","x":-278,"y":654,"width":400,"height":400,"type":"file","file":"Kalderath/Yadigarlar/Fırtına.md"},
+		{"id":"a602c1a9acf16cc7","x":189,"y":654,"width":400,"height":400,"type":"file","file":"Kalderath/Yadigarlar/Omega.md"}
+	],
+	"edges":[]
+}

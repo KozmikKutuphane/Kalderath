@@ -1,0 +1,1 @@
+![[Kutay_god_of_mercy_deviantart_berserk_divine_radiant_pastel_sol_71075284-fe0b-4933-babe-823a440fa3e2.png]]

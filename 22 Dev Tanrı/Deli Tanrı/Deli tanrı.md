@@ -1,0 +1,1 @@
+![[22 Dev Tanrı/Deli Tanrı/Untitled.png]]

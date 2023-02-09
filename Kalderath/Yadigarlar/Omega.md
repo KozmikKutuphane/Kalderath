@@ -1,0 +1,1 @@
+Anahtar yadigarı da olarak bilinen Omega yadigarı, OCW denilen özel bir varlığın küçük bir parçasından yapılmıştır. Bu özel eşya her türlü şeyi “kitleyebilme” ve “kitli olanı çözme” yeteneğine sahiptir. Aynı zamanda bu eşyanın kadim bir diyara kapı açtığı bilinmektedir. [REDACTED]

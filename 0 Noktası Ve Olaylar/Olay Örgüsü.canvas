@@ -1,0 +1,43 @@
+{
+	"nodes":[
+		{"id":"6963c8d4f005eed3","x":-3044,"y":-149,"width":400,"height":400,"type":"file","file":"0 Noktası Ve Olaylar/First One.md"},
+		{"id":"35959791e1cffdd4","x":-3044,"y":365,"width":400,"height":400,"type":"file","file":"0 Noktası Ve Olaylar/Hayata 2. olarak doğmuş olan.md"},
+		{"id":"09bb60d440f10dbb","x":-3044,"y":847,"width":400,"height":400,"type":"file","file":"0 Noktası Ve Olaylar/İlk Duygu.md"},
+		{"id":"4434d80c877334e9","x":-3044,"y":1343,"width":400,"height":400,"type":"file","file":"0 Noktası Ve Olaylar/Yaratılış/Yaratılış.md"},
+		{"id":"f8bf2a8a177d7b07","x":-2593,"y":-1152,"width":250,"height":60,"color":"2","type":"text","text":"Universe"},
+		{"id":"d00fd2e36239e72d","x":-2008,"y":-1182,"width":250,"height":60,"color":"2","type":"text","text":"Universe"},
+		{"id":"1ee2f3fb5ba1f81b","x":-2516,"y":-1092,"width":97,"height":98,"color":"1","type":"text","text":"Korku"},
+		{"id":"51ad15402ec3ffee","x":-1933,"y":-1122,"width":101,"height":98,"color":"1","type":"text","text":"Mutluluk"},
+		{"id":"9b7afccf8fef95f4","x":-2947,"y":-423,"width":207,"height":75,"color":"5","type":"text","text":"          Kalderath                  "},
+		{"id":"9c17fb649f84d35a","x":-1417,"y":-1009,"width":250,"height":60,"color":"2","type":"text","text":"Universe"},
+		{"id":"1145fa34f15526ce","x":-1139,"y":-1429,"width":250,"height":60,"color":"#e1ff00","type":"text","text":"omnipotent"},
+		{"id":"47eb82b476c4ef05","x":-1139,"y":-1287,"width":250,"height":50,"color":"#1d9a1f","type":"text","text":"Omniverse God"},
+		{"id":"89a0362e88315bc5","x":-842,"y":-1009,"width":250,"height":60,"color":"2","type":"text","text":"Universe"},
+		{"id":"edb41d41d1b5513b","x":-268,"y":-1182,"width":250,"height":60,"color":"2","type":"text","text":"Universe"},
+		{"id":"e3958057eb67b662","x":-1345,"y":-949,"width":107,"height":98,"color":"1","type":"text","text":"Öfke"},
+		{"id":"76c6854bb72c122f","x":-768,"y":-949,"width":103,"height":98,"color":"1","type":"text","text":"Üzüntü"},
+		{"id":"7fcb230c6e5d469e","x":-194,"y":-1122,"width":103,"height":98,"color":"1","type":"text","text":"Aşk"},
+		{"id":"49364827790d2c9f","x":-1139,"y":-690,"width":250,"height":60,"color":"2","type":"text","text":"Universe"},
+		{"id":"cb310da035a403f3","x":-1072,"y":-629,"width":117,"height":98,"color":"1","type":"text","text":"Açgözlülük"},
+		{"id":"d5dd9fe898448af7","x":495,"y":-1152,"width":250,"height":60,"color":"2","type":"text","text":"Universe"},
+		{"id":"65a1256832d74744","x":569,"y":-1092,"width":103,"height":98,"color":"1","type":"text","text":"Nefret"},
+		{"id":"3bb20420e0926c88","x":-2343,"y":-423,"width":207,"height":75,"color":"5","type":"text","text":"          Balerus                           "},
+		{"id":"3abda230aff906f0","x":-2343,"y":-423,"width":207,"height":75,"color":"5","type":"text","text":"          Balerus                           "}
+	],
+	"edges":[
+		{"id":"38d46f07c3f5b200","fromNode":"1145fa34f15526ce","fromSide":"bottom","toNode":"47eb82b476c4ef05","toSide":"top"},
+		{"id":"5501caa30b504dc5","fromNode":"6963c8d4f005eed3","fromSide":"bottom","toNode":"35959791e1cffdd4","toSide":"top"},
+		{"id":"af382a45d0d8d904","fromNode":"35959791e1cffdd4","fromSide":"bottom","toNode":"09bb60d440f10dbb","toSide":"top"},
+		{"id":"9a193741e370ba54","fromNode":"09bb60d440f10dbb","fromSide":"bottom","toNode":"4434d80c877334e9","toSide":"top"},
+		{"id":"44f877cd1563a50c","fromNode":"9b7afccf8fef95f4","fromSide":"bottom","toNode":"6963c8d4f005eed3","toSide":"top"},
+		{"id":"1f830d9978747f00","fromNode":"47eb82b476c4ef05","fromSide":"bottom","toNode":"9c17fb649f84d35a","toSide":"top"},
+		{"id":"55436e9aa00e7511","fromNode":"47eb82b476c4ef05","fromSide":"bottom","toNode":"89a0362e88315bc5","toSide":"top"},
+		{"id":"e2049b45f9781174","fromNode":"47eb82b476c4ef05","fromSide":"bottom","toNode":"edb41d41d1b5513b","toSide":"top"},
+		{"id":"30a1f277562e3b22","fromNode":"47eb82b476c4ef05","fromSide":"bottom","toNode":"d00fd2e36239e72d","toSide":"top"},
+		{"id":"0cf469061a89eb6d","fromNode":"47eb82b476c4ef05","fromSide":"bottom","toNode":"f8bf2a8a177d7b07","toSide":"top"},
+		{"id":"fd2f9db58997041f","fromNode":"47eb82b476c4ef05","fromSide":"bottom","toNode":"d5dd9fe898448af7","toSide":"top"},
+		{"id":"d341ec289bb31f59","fromNode":"47eb82b476c4ef05","fromSide":"bottom","toNode":"49364827790d2c9f","toSide":"top"},
+		{"id":"059bd54341327dc2","fromNode":"1ee2f3fb5ba1f81b","fromSide":"bottom","toNode":"3bb20420e0926c88","toSide":"top"},
+		{"id":"08f49ed13b8a839e","fromNode":"1ee2f3fb5ba1f81b","fromSide":"bottom","toNode":"9b7afccf8fef95f4","toSide":"top"}
+	]
+}

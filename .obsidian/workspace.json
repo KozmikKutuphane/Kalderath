@@ -1,0 +1,212 @@
+{
+  "main": {
+    "id": "4466ecee97f8dd88",
+    "type": "split",
+    "children": [
+      {
+        "id": "ad6b4ffdf3adfe8a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0986ed7f8c9337b7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Kalderath/Yadigarlar/Ateş.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "19835426f06365f8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Nine Hells/Güneş ve Ay/Ay/Ay Bebeği.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "75b64efdf2d8d2a0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Nine Hells/Güneş ve Ay/Ay/Ay Bebeği.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "0cab66fedbdf0c3f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Nine Hells/Güneş ve Ay/Güneş/Güneş Bebeği.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "df24856687507e5d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Nine Hells/Güneş ve Ay/Güneş/Güneş Bebeği.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "82f113fa623ac5b3",
+    "type": "split",
+    "children": [
+      {
+        "id": "3032f10ee9500a6c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d26c34c3a7680818",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "byCreatedTimeReverse"
+              }
+            }
+          },
+          {
+            "id": "2824aeb0c11243ce",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "7a8b9fc302f6f520",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "faa782f91db48ea2",
+    "type": "split",
+    "children": [
+      {
+        "id": "9f26d61d59922897",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "526c4876aa12c13f",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Nine Hells/Güneş ve Ay/Güneş/Güneş Bebeği.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "6411f0e6706a87b6",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Nine Hells/Güneş ve Ay/Güneş/Güneş Bebeği.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "04bbf4819d4b7d67",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "68dfdfc30b3a028d",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Nine Hells/Güneş ve Ay/Güneş/Güneş Bebeği.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Hızlı geçişi aç": false,
+      "graph:Grafik görünümünü aç": false,
+      "daily-notes:Bugünün Notunu Aç": false,
+      "templates:Şablon ekle": false,
+      "command-palette:Komut paletini aç": false,
+      "publish:Değişiklikleri yayınla": false,
+      "canvas:Create new canvas": false
+    }
+  },
+  "active": "df24856687507e5d",
+  "lastOpenFiles": [
+    "Kalderath/Yadigarlar/Ateş.md",
+    "Nine Hells/Güneş ve Ay/Güneş/jr-eisma-sunbaby.jpg",
+    "Başlıksız.md",
+    "Nine Hells/Güneş ve Ay/Güneş/Güneş Bebeği.md",
+    "Nine Hells/Lazanya/Kedi.md",
+    "Nine Hells/Güneş ve Ay/Ay/Ay Bebeği.md",
+    "Nine Hells/Güneş ve Ay/Ay/jr-eisma-moonbaby.jpg",
+    "0 Noktası Ve Olaylar/Olay Örgüsü 1.canvas",
+    "Kalderath/Şehirler/Hepsi tek yerde.canvas",
+    "Kalderath/Şehirler/Darthak.md"
+  ]
+}
