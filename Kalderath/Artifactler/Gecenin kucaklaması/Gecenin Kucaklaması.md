@@ -1,4 +1,4 @@
-![[Screenshot_1.png]]
+![[Kalderath/Artifactler/Gecenin kucaklaması/Screenshot_1.png]]
 **
 
 “Gel, bitkin kahraman. İndir kılıç tutan yorgun kollarını. Çıkar üstüne bindirdiğin ağır zırhını. Gir koynuma, kapat gözlerini. Karanlıkta gez, kimselere görünmeden. Saklan, gökteki sonsuz gözlerden. Evren, senden çok daha büyük.”
