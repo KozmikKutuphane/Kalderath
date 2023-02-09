@@ -11,9 +11,11 @@
             "id": "42c938198864c4cf",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "Kalderath/Artifactler/Hapsolmuş Hayaller Asası/63c886abfbc32149fb312c6a34d74536.jpg"
+                "file": "Kalderath/Artifactler/Morted eye glove/Morted eye glove.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -83,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Kalderath/Artifactler/Hapsolmuş Hayaller Asası/63c886abfbc32149fb312c6a34d74536.jpg",
+                "file": "Kalderath/Artifactler/Morted eye glove/Morted eye glove.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Kalderath/Artifactler/Hapsolmuş Hayaller Asası/63c886abfbc32149fb312c6a34d74536.jpg",
+                "file": "Kalderath/Artifactler/Morted eye glove/Morted eye glove.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Kalderath/Artifactler/Hapsolmuş Hayaller Asası/63c886abfbc32149fb312c6a34d74536.jpg"
+                "file": "Kalderath/Artifactler/Morted eye glove/Morted eye glove.md"
               }
             }
           }
@@ -145,17 +147,17 @@
       "canvas:Create new canvas": false
     }
   },
-  "active": "d26c34c3a7680818",
+  "active": "42c938198864c4cf",
   "lastOpenFiles": [
+    "Kalderath/Artifactler/Aptal Tanrının şarap çanağı/Aptal Tanrının Şarap Çanağı.md",
+    "Kalderath/Artifactler/Morted eye glove/Morted eye glove.md",
+    "Kalderath/Artifactler/Hapsolmuş Hayaller Asası/Hapsolmuş Hayaller Asası.md",
+    "Kalderath/Artifactler/Hiroshi/Hiroshi (cömert).md",
+    "Kalderath/Artifactler/Morted eye glove/morte.gif",
+    "Kalderath/Artifactler/Gecenin kucaklaması/Gecenin Kucaklaması.md",
+    "Kalderath/Artifactler/Hapsolmuş Hayaller Asası/63c886abfbc32149fb312c6a34d74536.jpg",
     "Kalderath/Artifactler/Gecenin kucaklaması/Screenshot_1.png",
     "Kalderath/Artifactler/Aptal Tanrının şarap çanağı/Screenshot_1_waifu2x_art_noise2_scale.png",
-    "Kalderath/Artifactler/Hiroshi/Screenshot_5_waifu2x_art_noise2_scale.png",
-    "Screenshot_5.png",
-    "Kalderath/Artifactler/Akrep ve Yelkovan/77497c69f031eec089352ad7cfd490fb.jpg",
-    "Kalderath/Artifactler/Morted eye glove/morte.gif",
-    "Kalderath/Artifactler/Hapsolmuş Hayaller Asası/Hapsolmuş Hayaller Asası.md",
-    "Kalderath/Artifactler/Gecenin kucaklaması/Gecenin Kucaklaması.md",
-    "Kalderath/Artifactler/Akrep ve Yelkovan/Akrep ve Yelkovan.md",
-    "Kalderath/Artifactler/Hiroshi/Hiroshi (cömert).md"
+    "Kalderath/Artifactler/Hiroshi/Screenshot_5_waifu2x_art_noise2_scale.png"
   ]
 }
