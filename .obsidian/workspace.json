@@ -11,12 +11,8 @@
             "id": "42c938198864c4cf",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Kalderath/Artifactler/Küçük Çocuğun maskesi/Küçük Çocuğun Maskesi.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Kalderath/Artifactler/Küçük Çocuğun maskesi/Küçük Çocuğun Maskesi.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Kalderath/Artifactler/Küçük Çocuğun maskesi/Küçük Çocuğun Maskesi.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Kalderath/Artifactler/Küçük Çocuğun maskesi/Küçük Çocuğun Maskesi.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -147,17 +139,17 @@
       "canvas:Create new canvas": false
     }
   },
-  "active": "42c938198864c4cf",
+  "active": "d26c34c3a7680818",
   "lastOpenFiles": [
+    "Kalderath/Artifactler/Kışın Asaleti/Screenshot_3.png",
+    "Kalderath/Artifactler/Kışın Asaleti/Kışın Asaleti.md",
+    "Kalderath/Artifactler/Küçük Çocuğun maskesi/Küçük Çocuğun Maskesi.md",
     "Kalderath/Artifactler/Entropus/Entropus.md",
     "Kalderath/Artifactler/Magus/M.A.G.U.S..md",
     "Kalderath/Artifactler/CosmoVax/indir.jpeg",
     "Kalderath/Artifactler/CosmoVax/CosmoVax.md",
     "Screenshot_2.png",
     "Kalderath/Artifactler/Magus/a016d3cd27b40eca5efe05ec52876449.jpg",
-    "Kalderath/Artifactler/Gecenin kucaklaması/Gecenin Kucaklaması.md",
-    "Kalderath/Artifactler/Akrep ve Yelkovan/Akrep ve Yelkovan.md",
-    "Kalderath/Artifactler/Isırık/Isırık.md",
-    "Kalderath/Artifactler/Morted eye glove/Morted eye glove.md"
+    "Kalderath/Artifactler/Gecenin kucaklaması/Gecenin Kucaklaması.md"
   ]
 }
