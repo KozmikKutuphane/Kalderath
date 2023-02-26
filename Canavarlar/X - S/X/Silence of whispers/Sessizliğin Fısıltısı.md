@@ -1,0 +1,1 @@
+![[Silence of whispers.jpeg]]

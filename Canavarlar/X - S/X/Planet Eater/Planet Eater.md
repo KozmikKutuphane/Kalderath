@@ -1,0 +1,1 @@
+![[Yog-Sothoth by Giacomo Tappainer.jpeg]]

@@ -1,5 +1,6 @@
-![[Screenshot_3.png]]
-**
+
+
+![[Screenshot_3 1.png]]
 
 **Tanrıların beşiği olarak da yaşayanları arasında bilinen Kalderath, Demi-godlara ev sahipliği yapmıştır. Bu tanrıların birkaçının akıl sağlığı yerinde değildir. Bunlardan biri olan Dionysus, şarapların ve partilemenin tanrısıdır. Takipçileri ise, onun izinden sık sık büyük partiler düzenler, bilinçlerini kaybedene kadar içerler, ve ayakları kopana kadar dans ederler. Başlangıçta herkes mutlu gibi görünse de, biraz dikkatli bakan kimseler partiye katılanların zırdeli olduğunu anlayabilir.**
 

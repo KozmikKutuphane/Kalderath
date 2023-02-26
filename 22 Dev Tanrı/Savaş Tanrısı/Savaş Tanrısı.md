@@ -1,0 +1,1 @@
+![[Savaş Tanrısı.jpeg]]

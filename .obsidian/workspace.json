@@ -4,22 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "e3a14c143a31e6c7",
+        "id": "8bd29934bcc61508",
         "type": "tabs",
         "children": [
           {
-            "id": "42c938198864c4cf",
+            "id": "fc0f13f359991437",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Kalderath/Artifactler/Mana Breaker/Mana Breaker.md",
+                "file": "Canavarlar/X - S/X/Dr. Paradox/Dr. Paradox.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "5ccac92a74a26f30",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Canavarlar/X - S/SS+/Serpiant/Serpiant.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Kalderath/Artifactler/Mana Breaker/Mana Breaker.md",
+                "file": "Canavarlar/X - S/SS+/Serpiant/Serpiant.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Kalderath/Artifactler/Mana Breaker/Mana Breaker.md",
+                "file": "Canavarlar/X - S/SS+/Serpiant/Serpiant.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Kalderath/Artifactler/Mana Breaker/Mana Breaker.md"
+                "file": "Canavarlar/X - S/SS+/Serpiant/Serpiant.md"
               }
             }
           }
@@ -138,26 +151,61 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "canvas:Yeni tuval oluşturun": false,
       "switcher:Hızlı geçişi aç": false,
       "graph:Grafik görünümünü aç": false,
       "daily-notes:Bugünün Notunu Aç": false,
       "templates:Şablon ekle": false,
       "command-palette:Komut paletini aç": false,
-      "publish:Değişiklikleri yayınla": false,
-      "canvas:Create new canvas": false
+      "publish:Değişiklikleri yayınla": false
     }
   },
-  "active": "42c938198864c4cf",
+  "active": "d26c34c3a7680818",
   "lastOpenFiles": [
-    "Kalderath/Artifactler/Mana Breaker/E-dllBuVEAoPhlD.jpg",
-    "Kalderath/Artifactler/Mana Breaker/Mana Breaker.md",
-    "Kalderath/Artifactler/Helm Of Domination/Helm of Domination.md",
-    "Kalderath/Artifactler/Hiroshi/Hiroshi (cömert).md",
-    "Kalderath/Artifactler/Isırık/Isırık.md",
-    "Kalderath/Artifactler/Kışın Asaleti/Kışın Asaleti.md",
-    "Kalderath/Artifactler/Küçük Çocuğun maskesi/Küçük Çocuğun Maskesi.md",
-    "Kalderath/Artifactler/Magus/M.A.G.U.S..md",
-    "Kalderath/Artifactler/Magus/a016d3cd27b40eca5efe05ec52876449.jpg",
-    "Kalderath/Artifactler/Ejderin Kemanı/Ejderin Kemanı.md"
+    "Canavarlar/X - S/X/Chaos/Kaos.md",
+    "Canavarlar/X - S/SS+/Serpiant/Serpiant.md",
+    "Serpiant.jpg",
+    "Canavarlar/X - S/X/Dr. Paradox/Dr. Paradox.md",
+    "Canavarlar/X - S/SS+/Serpiant",
+    "Canavarlar/X - S/X/Cosmobux/Kozmos arısı.md",
+    "Canavarlar/X - S/X/Filter/Filtre.md",
+    "Canavarlar/X - S/X/Cosmobux/Cosmobux.jpeg",
+    "Canavarlar/X - S/X/Ant eater/Karınca Yiyen.md",
+    "22 Dev Tanrı/Savaş Tanrısı/Savaş Tanrısı.md",
+    "Notlar/Notlar.md",
+    "Canavarlar/X - S/X/Terror/Terör.md",
+    "Canavarlar/X - S/X/Snakes of Sentorin/Sentorin Yılanları.md",
+    "Canavarlar/X - S/X/Silence of whispers/Silence of whispers.jpeg",
+    "Canavarlar/X - S/X/Silence of whispers/Sessizliğin Fısıltısı.md",
+    "Canavarlar/X - S/X/Planet Eater/Yog-Sothoth by Giacomo Tappainer.jpeg",
+    "Canavarlar/X - S/X/Planet Eater/Planet Eater.md",
+    "Canavarlar/X - S/X/Mouth of Pandemonium/Mouth of Pandemonium.jpeg",
+    "Canavarlar/X - S/X/Mouth of Pandemonium/Pandemonium'un ağızı.md",
+    "Canavarlar/X - S/X/Mismatched tower/Uyumsuzlar kulesi.md",
+    "Canavarlar/X - S/X/Kram'gur/Kram'gur.jpeg",
+    "Canavarlar/X - S/X/Kram'gur/Başlıksız.md",
+    "Canavarlar/X - S/X/Filter/Filter.jpeg",
+    "Canavarlar/X - S/X/Dr. Paradox/FXhmLytUsAE8anI.jpg",
+    "Canavarlar/X - S/X/Dr. Paradox/FY0zfqwaMAEME66.jpg",
+    "Canavarlar/X - S/X/Chaos/Chaos.webp",
+    "Canavarlar/X - S/X",
+    "Canavarlar/X - S",
+    "Canavarlar/B",
+    "Canavarlar/B+",
+    "Canavarlar/A",
+    "Canavarlar/A+",
+    "Canavarlar/X - S/S",
+    "Canavarlar/X - S/S+",
+    "Canavarlar/X - S/SS",
+    "Canavarlar/Başlıksız 12/Dr. Paradox.md",
+    "Canavarlar/X - S/X/Başlıksız 1/Başlıksız.md",
+    "Kalderath/Gri Dağ/Gri Dağ.md",
+    "22 Dev Tanrı/Doğa Tanrısı/Doğa tanrısı.md",
+    "22 Dev Tanrı/Deli Tanrı/Deli tanrı.md",
+    "22 Dev Tanrı/Şans Tanrısı/Şans Tanrısı.md",
+    "22 Dev Tanrı/Güneş Tanrısı/Güneş Tanrısı.md",
+    "22 Dev Tanrı/Aşk ve Zehir Tanrısı/Aşk ve zehir tanrısı.md",
+    "Kalderath/Artifactler/Başlıksız 21.md",
+    "Kalderath/Artifactler/Morted eye glove/Morted eye glove.md"
   ]
 }

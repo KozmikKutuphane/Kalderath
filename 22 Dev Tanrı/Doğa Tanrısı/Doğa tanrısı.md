@@ -1,1 +1,1 @@
-![[Kutay_God_Nature_green_pastel_dark_divine_flying_solar_eclipse__b49bef27-84e5-40ed-8082-26041131fa7e.png]]
+![[Doğa Tanrısı.png]]
