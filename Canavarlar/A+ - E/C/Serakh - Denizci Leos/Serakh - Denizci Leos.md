@@ -1,0 +1,1 @@
+![[Serakh - Denizci Leos.jpeg]]

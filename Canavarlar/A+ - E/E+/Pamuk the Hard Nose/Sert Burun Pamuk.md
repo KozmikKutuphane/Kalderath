@@ -1,0 +1,1 @@
+![[Hard Nose Pamuk.jpg]]

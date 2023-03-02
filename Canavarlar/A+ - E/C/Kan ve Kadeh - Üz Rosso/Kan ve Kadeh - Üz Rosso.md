@@ -1,0 +1,1 @@
+![[Kan ve kadeh - Üz Rosso.jpeg]]

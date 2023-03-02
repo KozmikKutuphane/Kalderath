@@ -1,0 +1,1 @@
+![[Beyaz Gül.jpeg]]

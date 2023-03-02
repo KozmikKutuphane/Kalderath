@@ -1,0 +1,1 @@
+![[Vampir Maşuk.png]]

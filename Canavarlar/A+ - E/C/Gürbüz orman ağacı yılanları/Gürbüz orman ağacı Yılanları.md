@@ -1,0 +1,1 @@
+![[Gürbüz Orman ağacı yılanları.jpeg]]

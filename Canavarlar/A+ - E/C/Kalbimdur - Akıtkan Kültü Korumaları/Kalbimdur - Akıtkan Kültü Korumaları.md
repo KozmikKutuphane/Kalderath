@@ -1,0 +1,1 @@
+![[Kalbimdur - Akıtkan Kültü korumaları.jpeg]]

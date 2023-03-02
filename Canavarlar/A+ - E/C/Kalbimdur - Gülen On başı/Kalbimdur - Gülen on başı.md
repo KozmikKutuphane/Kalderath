@@ -1,0 +1,1 @@
+![[Kalbimdur - Gülen on başı.jpeg]]

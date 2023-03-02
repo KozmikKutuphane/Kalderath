@@ -28,5 +28,5 @@ Teletubbies zamanı
 
 Merhaba de.
 
-> **-Gerçekliğin Tanrısı, Deliren Tanrı - Erebis'in Notları**
+> **-Zaman Tanrısı, Deliren Tanrı - Erebis'in Notları**
 

@@ -1,0 +1,1 @@
+![[Gürbüz ağacı orman - Learus Kaplanları.jpeg]]

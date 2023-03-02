@@ -1,0 +1,1 @@
+![[Orman Elfi geyikleri.jpeg]]

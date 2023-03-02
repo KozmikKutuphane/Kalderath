@@ -1,0 +1,1 @@
+![[Kan ve Kadeh Tapınağı - Korumalar.png]]

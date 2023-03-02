@@ -1,0 +1,1 @@
+![[Mucit Aslan.jpeg]]

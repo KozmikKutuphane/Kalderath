@@ -1,0 +1,1 @@
+![[Gürbüz Ormanı - Orman Ruhu.jpeg]]

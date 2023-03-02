@@ -4,35 +4,95 @@
     "type": "split",
     "children": [
       {
-        "id": "8bd29934bcc61508",
+        "id": "b3da1fd662292b32",
         "type": "tabs",
         "children": [
           {
-            "id": "fc0f13f359991437",
+            "id": "7c38c2b29f085ca9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Canavarlar/X - S/X/Dr. Paradox/Dr. Paradox.md",
+                "file": "Canavarlar/A+ - E/C+/Gürbüz Ormanı- Learus Kaplanı/Gürbüz Ağacı - Learus Kaplanı.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "5ccac92a74a26f30",
+            "id": "3f750248c92f2186",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Canavarlar/X - S/SS+/Serpiant/Serpiant.md",
+                "file": "Canavarlar/A+ - E/C+/Gürbüz Ormanı - Orman ruhu/Gürbüz ormanı - Orman Ruhu.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "111bb317cf0ede35",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Canavarlar/A+ - E/C+/Holfgar - Benjamin Mortas/Holfgar - Benjamin Mortas.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "2ba327789c7b7b29",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Canavarlar/A+ - E/C+/Holfgar - on başı Kelbarum/Holfgar - On başı Kelbarum.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e9cd0d5e55ca091a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Canavarlar/A+ - E/C+/Kan Leydisi/Kan Leydisi.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "85c6ecd3eb1c5018",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Canavarlar/A+ - E/C+/Kan ve Kadeh - Ethel Rosso/Kan ve Kadeh - Ethel Rosso.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "619d7c64fd17896b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Canavarlar/A+ - E/D+/Alzaren/Alzaren.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -98,7 +158,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Canavarlar/X - S/SS+/Serpiant/Serpiant.md",
+                "file": "Canavarlar/A+ - E/D+/Alzaren/Alzaren.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +175,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Canavarlar/X - S/SS+/Serpiant/Serpiant.md",
+                "file": "Canavarlar/A+ - E/D+/Alzaren/Alzaren.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +198,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Canavarlar/X - S/SS+/Serpiant/Serpiant.md"
+                "file": "Canavarlar/A+ - E/D+/Alzaren/Alzaren.md"
               }
             }
           }
@@ -146,8 +206,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -160,52 +219,54 @@
       "publish:Değişiklikleri yayınla": false
     }
   },
-  "active": "d26c34c3a7680818",
+  "active": "619d7c64fd17896b",
   "lastOpenFiles": [
-    "Canavarlar/X - S/X/Chaos/Kaos.md",
-    "Canavarlar/X - S/SS+/Serpiant/Serpiant.md",
-    "Serpiant.jpg",
-    "Canavarlar/X - S/X/Dr. Paradox/Dr. Paradox.md",
-    "Canavarlar/X - S/SS+/Serpiant",
-    "Canavarlar/X - S/X/Cosmobux/Kozmos arısı.md",
-    "Canavarlar/X - S/X/Filter/Filtre.md",
-    "Canavarlar/X - S/X/Cosmobux/Cosmobux.jpeg",
-    "Canavarlar/X - S/X/Ant eater/Karınca Yiyen.md",
-    "22 Dev Tanrı/Savaş Tanrısı/Savaş Tanrısı.md",
-    "Notlar/Notlar.md",
-    "Canavarlar/X - S/X/Terror/Terör.md",
-    "Canavarlar/X - S/X/Snakes of Sentorin/Sentorin Yılanları.md",
-    "Canavarlar/X - S/X/Silence of whispers/Silence of whispers.jpeg",
-    "Canavarlar/X - S/X/Silence of whispers/Sessizliğin Fısıltısı.md",
-    "Canavarlar/X - S/X/Planet Eater/Yog-Sothoth by Giacomo Tappainer.jpeg",
-    "Canavarlar/X - S/X/Planet Eater/Planet Eater.md",
-    "Canavarlar/X - S/X/Mouth of Pandemonium/Mouth of Pandemonium.jpeg",
-    "Canavarlar/X - S/X/Mouth of Pandemonium/Pandemonium'un ağızı.md",
-    "Canavarlar/X - S/X/Mismatched tower/Uyumsuzlar kulesi.md",
-    "Canavarlar/X - S/X/Kram'gur/Kram'gur.jpeg",
-    "Canavarlar/X - S/X/Kram'gur/Başlıksız.md",
-    "Canavarlar/X - S/X/Filter/Filter.jpeg",
-    "Canavarlar/X - S/X/Dr. Paradox/FXhmLytUsAE8anI.jpg",
-    "Canavarlar/X - S/X/Dr. Paradox/FY0zfqwaMAEME66.jpg",
-    "Canavarlar/X - S/X/Chaos/Chaos.webp",
-    "Canavarlar/X - S/X",
-    "Canavarlar/X - S",
-    "Canavarlar/B",
-    "Canavarlar/B+",
-    "Canavarlar/A",
-    "Canavarlar/A+",
-    "Canavarlar/X - S/S",
-    "Canavarlar/X - S/S+",
-    "Canavarlar/X - S/SS",
-    "Canavarlar/Başlıksız 12/Dr. Paradox.md",
-    "Canavarlar/X - S/X/Başlıksız 1/Başlıksız.md",
-    "Kalderath/Gri Dağ/Gri Dağ.md",
-    "22 Dev Tanrı/Doğa Tanrısı/Doğa tanrısı.md",
-    "22 Dev Tanrı/Deli Tanrı/Deli tanrı.md",
-    "22 Dev Tanrı/Şans Tanrısı/Şans Tanrısı.md",
-    "22 Dev Tanrı/Güneş Tanrısı/Güneş Tanrısı.md",
-    "22 Dev Tanrı/Aşk ve Zehir Tanrısı/Aşk ve zehir tanrısı.md",
-    "Kalderath/Artifactler/Başlıksız 21.md",
-    "Kalderath/Artifactler/Morted eye glove/Morted eye glove.md"
+    "Canavarlar/A+ - E/C+/Orman Ruhları/Elf Ormanı Ruhu.md",
+    "Canavarlar/A+ - E/C+/Orman Ruhları/Orman ruhları.jpeg",
+    "Canavarlar/A+ - E/C+/Kan ve Kadeh - Ethel Rosso/Kan ve Kadeh - Ethel Rosso.md",
+    "Canavarlar/A+ - E/C+/Kan ve Kadeh - Ethel Rosso/Kan ve Kadeh - Ethel Rosso.jpeg",
+    "Canavarlar/A+ - E/C+/Kan Leydisi/Kan Leydisi.md",
+    "Canavarlar/A+ - E/C+/Kan Leydisi/Kan Leydisi.jpeg",
+    "Canavarlar/A+ - E/C+/Holfgar - on başı Kelbarum/Holfgar - On başı Kelbarum.md",
+    "Canavarlar/A+ - E/C+/Holfgar - on başı Kelbarum/Holfar - on başı Kelbarum.png",
+    "Canavarlar/A+ - E/C+/Holfgar - Benjamin Mortas/Holfgar - Benjamin Mortas.md",
+    "Canavarlar/A+ - E/C+/Holfgar - Benjamin Mortas/Holfgar - Benjamin Mortas.jpeg",
+    "Canavarlar/A+ - E/C+/Gürbüz Ormanı - Orman ruhu/Gürbüz ormanı - Orman Ruhu.md",
+    "Canavarlar/A+ - E/C+/Gürbüz Ormanı - Orman ruhu/Gürbüz Ormanı - Orman Ruhu.jpeg",
+    "Canavarlar/A+ - E/C+/Gürbüz Ormanı- Learus Kaplanı/Gürbüz Ağacı - Learus Kaplanı.md",
+    "Canavarlar/A+ - E/C+/Gürbüz Ormanı- Learus Kaplanı/Gürbüz ağacı orman - Learus Kaplanları.jpeg",
+    "Canavarlar/A+ - E/C+/Kan ve Kadeh - Ethel Rosso",
+    "Canavarlar/A+ - E/C+/Gürbüz Ormanı- Learus Kaplanı",
+    "Canavarlar/A+ - E/C+/Holfgar - Benjamin Mortas",
+    "Canavarlar/A+ - E/C+/Holfgar - on başı Kelbarum",
+    "Canavarlar/A+ - E/C+/Gürbüz Ormanı - Orman ruhu",
+    "Canavarlar/A+ - E/C+/Orman Ruhları",
+    "Canavarlar/A+ - E/C+/Kan Leydisi",
+    "Canavarlar/A+ - E/E+/Laser The Black cat/d3e75360325e52edb8f5b11fbc6d566c.jpg",
+    "Canavarlar/A+ - E/E+/Maşuk the Vampire/Vampir Maşuk.md",
+    "Canavarlar/A+ - E/E+/Melody the Owl/Baykuş Melodi.jpg",
+    "Canavarlar/A+ - E/C/Kalbimdur - Gülen On başı/Kalbimdur - Gülen on başı.md",
+    "Canavarlar/A+ - E/C/Çıtkıran Mais/Çıtkıran Mais.md",
+    "Canavarlar/A+ - E/C/Holfgar - Lezar Mortas/Holfgar - Lezar Mortas.jpeg",
+    "Canavarlar/A+ - E/C/Gürbüz orman ağacı yılanları/Gürbüz orman ağacı Yılanları.md",
+    "Canavarlar/A+ - E/D/Artificer Aslan/Artificer Aslan.md",
+    "Canavarlar/A+ - E/D/Ağaç Bekçileri/Ağaç Bekçileri.md",
+    "Canavarlar/A+ - E/D/Moerez Silva/Moerez Silva.md",
+    "Canavarlar/A+ - E/D/Kan ve Kadeh Tapınakçıları/Kan ve Kadeh Tapınakçıları.md",
+    "Canavarlar/A+ - E/D/Kan ve Kadeh Tapınakçıları - Korumalar/Kan ve Kadeh Tapınakçıları - Korumalar.md",
+    "Canavarlar/A+ - E/C/Serakh - Denizci Leos/Serakh - Denizci Leos.md",
+    "Canavarlar/A+ - E/C/Kan ve Kadeh - Üz Rosso/Kan ve Kadeh - Üz Rosso.md",
+    "Canavarlar/A+ - E/C/Kan ve Kadeh - Signo Rosso/Kan ve Kadeh - Signo Rosso.md",
+    "Canavarlar/A+ - E/C/Kan ve Kadeh - Jahmar Rosso/Kan ve Kadeh - Jahmar Rosso.md",
+    "Canavarlar/A+ - E/C/Kalbimdur Şehir Gardiyanları 1/Kalbimdur şehir gardiyanları 1.md",
+    "Canavarlar/A+ - E/C/Kalbimdur - Akıtkan Kültü Korumaları/Kalbimdur - Akıtkan Kültü Korumaları.md",
+    "Canavarlar/A+ - E/C/Holfgar - Sezar Mortas/Holfgar - Sezar Mortas.md",
+    "Canavarlar/A+ - E/C/Holfgar - Lezar Mortas/Holfgar - Lezar Mortas.md",
+    "Canavarlar/A+ - E/C/Holfgar - Sezar Mortas",
+    "Canavarlar/A+ - E/C/Ağaç Elfleri/Ağaç Elfleri.md",
+    "Canavarlar/A+ - E/C/Serakh - Denizci Leos",
+    "Canavarlar/A+ - E/C/Kan ve Kadeh - Üz Rosso",
+    "0 Noktası Ve Olaylar/Olay Örgüsü.canvas",
+    "0 Noktası Ve Olaylar/Olay Örgüsü 1.canvas"
   ]
 }

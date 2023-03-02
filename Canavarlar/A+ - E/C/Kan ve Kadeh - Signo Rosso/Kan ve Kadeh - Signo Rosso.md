@@ -1,0 +1,1 @@
+![[Kan ve Kadeh - Signo Rosso.png]]

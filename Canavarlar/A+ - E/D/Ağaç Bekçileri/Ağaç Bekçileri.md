@@ -1,0 +1,1 @@
+![[Ağaç bekçileri.jpeg]]
