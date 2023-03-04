@@ -1,0 +1,1 @@
+![[Canavarlar/X - S/SSS+/Onoskelis/Onoskelis.jpg]]

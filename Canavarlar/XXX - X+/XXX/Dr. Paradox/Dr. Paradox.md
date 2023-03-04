@@ -8,5 +8,3 @@ Gerçek dünyadan haberi vardır ve sizi bilir, tanır.
 
 
 
-
-

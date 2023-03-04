@@ -8,11 +8,15 @@
         "type": "tabs",
         "children": [
           {
-            "id": "6e42226f11f69a81",
+            "id": "5761819667dc66f6",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "İsimler/İsimler.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "İsimler/İsimler.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "İsimler/İsimler.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "İsimler/İsimler.md"
+              }
             }
           }
         ]
@@ -138,55 +146,56 @@
       "publish:Değişiklikleri yayınla": false
     }
   },
-  "active": "6e42226f11f69a81",
+  "active": "d26c34c3a7680818",
   "lastOpenFiles": [
+    "Canavarlar/X - S/SSS+/Kütüphaneci/Kütüphaneci.md",
+    "İsimler/İsimler.md",
+    "İsimler",
+    "Canavarlar/X - S/SSS+/Alzaren/Alzaren.md",
+    "Canavarlar/X - S/SSS+/Alzaren/149752bf78edf173cf41978eb5a20220.jpg",
+    "Canavarlar/X - S/SSS+/Alzaren/c72304773671f869ca7e3dde982c36e1.jpg",
+    "Canavarlar/X - S/SSS+/Alzaren/LITTLE DEVIL.png",
+    "Canavarlar/X - S/SSS+/Kütüphaneci/85c2c7bd-513d-4281-a0b9-859c4e6860a7.jpeg",
+    "Canavarlar/X - S/SSS+/Kütüphaneci",
+    "Canavarlar/X - S/SSS+/Alzaren/Alzaren.jpg",
+    "Canavarlar/X - S/SSS+/Onoskelis/Onoskelis.md",
+    "Canavarlar/X - S/SSS+/Alzaren",
+    "Canavarlar/X - S/SSS+/Onoskelis/Onoskelis.jpg",
+    "Canavarlar/X - S/SSS+/Lahraltin/Lahraltin.md",
+    "Canavarlar/X - S/SSS+/Onoskelis",
+    "Canavarlar/X - S/SSS+/Lahraltin/Lahraltin.jpg",
+    "Canavarlar/X - S/SSS+/Vazollath/Vazollath.md",
+    "Canavarlar/X - S/SSS+/Lahraltin",
+    "Canavarlar/X - S/SSS+/Vazollath/Vazollath.jpg",
+    "Canavarlar/X - S/SSS+/Abrisi/Abrisi.md",
+    "Canavarlar/X - S/SSS+/Methuselah/Methuselah 1.jpeg",
+    "Canavarlar/X - S/SSS+/Methuselah/Methuselah.jpeg",
+    "Canavarlar/X - S/SSS+/Methuselah/Methuselah.md",
+    "Canavarlar/X - S/SSS+/Azrael/Azrail.md",
+    "Canavarlar/X - S/SSS+/Baron Triton Vadoll/Baron Triton Vadoll.md",
+    "Canavarlar/X - S/SSS+/Methuselah",
+    "0 Noktası Ve Olaylar/Yaratılış/Deli Tanrı ve 7 Günah/Deli Tanrı ve 7 Günah.canvas",
+    "0 Noktası Ve Olaylar/First One.md",
+    "0 Noktası Ve Olaylar/Hayata 2. olarak doğmuş olan.md",
+    "0 Noktası Ve Olaylar/Olay Örgüsü.canvas",
+    "0 Noktası Ve Olaylar/İlk Duygu.md",
+    "Canavarlar/XXX - X+/XXX/Dr. Paradox/Dr. Paradox.md",
+    "Canavarlar/X - S/SSS+/Baron Triton Vadoll",
+    "Canavarlar/X - S/SSS+/Vazollath",
+    "Canavarlar/X - S/SSS+/Abrisi",
+    "Canavarlar/Truth",
     "Kalderath/Şehirler/Paflegonya/Paflegonya.md",
-    "Kalderath/Şehirler/Paflegonya",
-    "Kalderath/Köyler/Paflegonya",
     "Kalderath/Köyler/Redwater/Capt. Alvin Black.md",
     "Kalderath/Köyler/Redwater/Gwain Family.md",
     "Kalderath/Köyler/Redwater/Redwater.md",
     "Kalderath/Köyler/Redwater/Kan Ve Kadeh.md",
-    "Kalderath/Köyler/Redwater",
     "Canavarlar/A+ - E/A+/Thanatos/Thanatos.md",
     "Canavarlar/A+ - E/A+/Azazel/Azazel.md",
-    "Canavarlar/A+ - E/A+/Agrona/Agrona.jpg",
     "Canavarlar/A+ - E/A+/Agrona/Agrona.md",
-    "Kalderath/Öteki Boyutlar/Tanrı Konsolosluğu",
-    "Kalderath/Öteki Boyutlar/Rüya Boyutu",
-    "Kalderath/Öteki Boyutlar/Pandemonium",
-    "Kalderath/Öteki Boyutlar/Nalaman",
-    "Kalderath/Öteki Boyutlar/Hiçlik",
-    "Canavarlar/A+ - E/A+/Agrona",
-    "Canavarlar/A+ - E/A+/Azazel/Anne.jpg",
-    "Canavarlar/A+ - E/A+/Azazel",
-    "Canavarlar/A+ - E/A+/Thanatos/Thanatos.jpeg",
     "Canavarlar/A+ - E/A+/Mirthun/Mrithun.md",
-    "Canavarlar/A+ - E/A+/Mirthun/Mrithun.jpg",
     "Canavarlar/A+ - E/A+/Kalaraja/Kalaraja.md",
-    "Canavarlar/A+ - E/A+/Kalaraja/Kalaraja.jpg",
     "Canavarlar/X - S/SS+/Shadow realm/Gölge boyutu.md",
     "Canavarlar/X - S/SSS/Gabriel/Cebrail.md",
-    "Canavarlar/X - S/SSS+/Azrael/Azrail.md",
-    "0 Noktası Ve Olaylar/First One.md",
-    "0 Noktası Ve Olaylar/İlk Duygu.md",
-    "Notlar/Notlar.md",
-    "0 Noktası Ve Olaylar/Olay Örgüsü.canvas",
-    "0 Noktası Ve Olaylar/Hayata 2. olarak doğmuş olan.md",
-    "0 Noktası Ve Olaylar/Yaratılış/7 günah görsel/Abrisi.jpg",
-    "Canavarlar/XXX - X+/XXX/Atlas/Atlas.md",
-    "Kalderath/Artifactler/Helm Of Domination/Helm of Domination.md",
-    "Kalderath/Artifactler/Küçük Çocuğun maskesi/Küçük Çocuğun Maskesi.md",
-    "Kalderath/Artifactler/Başlıksız 21.md",
-    "Kalderath/Artifactler/Mana Breaker/Mana Breaker.md",
-    "Kalderath/Artifactler/Magus/M.A.G.U.S..md",
-    "Kalderath/Artifactler/Kışın Asaleti/Kışın Asaleti.md",
-    "Kalderath/Artifactler/Karayıldız/Karayıldız.md",
-    "Kalderath/Artifactler/Isırık/Isırık.md",
-    "23 Dev Tanrı/Zulüm Tanrısı/3652286b6a4b8a5335ad2d0ddd01b2b9.jpg",
-    "23 Dev Tanrı/Yalanlar Ve Aldatma Tanrısı/5cf0fd180e73f9f8ef49e9454ee80ff3.jpg",
-    "Canavarlar/A+ - E/C+/Orman Ruhları/Orman ruhları.jpeg",
-    "Canavarlar/A+ - E/C+/Kan ve Kadeh - Ethel Rosso/Kan ve Kadeh - Ethel Rosso.jpeg",
     "0 Noktası Ve Olaylar/Olay Örgüsü 1.canvas"
   ]
 }

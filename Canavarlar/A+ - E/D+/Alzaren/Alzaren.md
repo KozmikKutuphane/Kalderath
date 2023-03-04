@@ -1,4 +1,4 @@
-![[Alzaren.jpg]]
+![[Canavarlar/X - S/SSS+/Alzaren/Alzaren.jpg]]
 
 Ev hanımı bir anne ile maceracı bir babanın çocuğuyum. Babamı mesleğinden ötürü pek göremezdim ama eve döndüğünde anlattığı hikayelerden dolayı küçüklüğümden beri maceracı olmak isterdim.
 

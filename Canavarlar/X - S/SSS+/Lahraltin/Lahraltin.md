@@ -1,0 +1,1 @@
+![[Canavarlar/X - S/SSS+/Lahraltin/Lahraltin.jpg]]
