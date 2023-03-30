@@ -65,6 +65,7 @@ hangi hasan florasan
 -Arkadaşlarla ateşte yemek yiyorduk
 sonra yandık dışarı çıktık
 
+-Peren peren alperen götüne girsin çokokrem
 ### Uyuyanlar loncası
 1. 
 2. Uyuyanlar Loncası: Bu loncanın amacı, mümkün olduğunca çok uyumaktır. Üyeler genellikle uzun süre uyumak için yataklarına girer ve geceleri uyumaya çalışırlar. Lonca toplantıları genellikle uyumak ve rahatlamak için düzenlenir.

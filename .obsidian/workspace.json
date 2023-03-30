@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "8feb058f46777fbf",
+        "id": "084330d5a503d24a",
         "type": "tabs",
         "children": [
           {
-            "id": "d8b53ef94b96e036",
+            "id": "0dffc33b0436d1a5",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "İsimler/İsimler.md",
+                "file": "Kalderath/Öteki Boyutlar/Pandemonium/Pandemonium Rütbe/4-) Abyssal High Priest/Abyssal High Priest.md",
                 "mode": "source",
                 "source": false
               }
@@ -80,29 +80,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "526c4876aa12c13f",
-            "type": "leaf",
-            "state": {
-              "type": "backlink",
-              "state": {
-                "file": "İsimler/İsimler.md",
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical",
-                "showSearch": false,
-                "searchQuery": "",
-                "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
-              }
-            }
-          },
-          {
             "id": "6411f0e6706a87b6",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "İsimler/İsimler.md",
+                "file": "Kalderath/Öteki Boyutlar/Pandemonium/Pandemonium Rütbe/4-) Abyssal High Priest/Abyssal High Priest.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,11 +108,29 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "İsimler/İsimler.md"
+                "file": "Kalderath/Öteki Boyutlar/Pandemonium/Pandemonium Rütbe/4-) Abyssal High Priest/Abyssal High Priest.md"
+              }
+            }
+          },
+          {
+            "id": "1c8035ab026d95f9",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Kalderath/Öteki Boyutlar/Pandemonium/Pandemonium Rütbe/4-) Abyssal High Priest/Abyssal High Priest.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
               }
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -146,56 +147,56 @@
       "publish:Değişiklikleri yayınla": false
     }
   },
-  "active": "526c4876aa12c13f",
+  "active": "0dffc33b0436d1a5",
   "lastOpenFiles": [
-    "Notlar/Notlar.md",
-    "Canavarlar/XXX - X+/XXX/Sağ ve Sol/Sağ Ve Sol.md",
-    "Kalderath/Efsanevi isimler/Eryndor İgnis's/chris-cold-1x1-secret-face.jpg",
-    "Kalderath/Efsanevi isimler/Eryndor İgnis's/sk017.jpg",
-    "Kalderath/Efsanevi isimler/Eryndor İgnis's/chris-cold-sk2.jpg",
-    "Kalderath/Efsanevi isimler/Eryndor İgnis's/d7kazzo-0aa9b0d7-58fd-45b8-98ce-67f6fcdad579.jpg",
-    "Kalderath/Efsanevi isimler/Eryndor İgnis's/Eryndor İgnis's.md",
-    "Kalderath/Efsanevi isimler/Zaman büyücüsü - Jareth/Zaman büyücüsü - Jareth.md",
-    "Kalderath/Efsanevi isimler/Zaman büyücüsü - Jareth/Jareth.jpg",
-    "Kalderath/Efsanevi isimler/Zaman büyücüsü - Jareth/Jareth - Mekan.jpg",
-    "Kalderath/Efsanevi isimler/Zalazar/Zalazar.md",
-    "Kalderath/Efsanevi isimler/Eryndor İgnis's",
-    "Kalderath/Şehirler/Paflegonya/Loncalar.md",
-    "Kalderath/Şehirler/Paflegonya/Tarikatlar.md",
-    "Kalderath/Şehirler/Paflegonya/Başlıksız.md",
-    "Kalderath/Şehirler/Paflegonya/Engizisyon Mahkemeleri.md",
-    "Kalderath/Şehirler/Paflegonya/Bina türleri.md",
-    "Kalderath/Şehirler/Paflegonya/Baskın olan ırkın diğer ırklara karşı bakış açısı.md",
-    "Kalderath/Şehirler/Paflegonya/Hukuk sistemi.md",
-    "Kalderath/Dillendirilmeyen Yerler/Enjektör kuleleri - Darthak.md",
-    "İsimler/İsimler.md",
-    "Kalderath/Şehirler/Paflegonya/Paflegonya.md",
-    "Kalderath/Şehirler/Paflegonya/Başlıksız 1.md",
-    "Kalderath/Dillendirilmeyen Yerler/Dipsiz çukur - Serakh.md",
-    "Kalderath/Dillendirilmeyen Yerler/Dipsiz kuyu - Köle şehri.md",
-    "Kalderath/Dillendirilmeyen Yerler/Dilsiz Çukurlar.md",
-    "Kalderath/Dillendirilmeyen Yerler/Berez ağacı.md",
-    "Kalderath/Dillendirilmeyen Yerler/Başlıksız.md",
-    "Kalderath/Dillendirilmeyen Yerler/Ağaçovası mezarlığı - Druid grave.md",
-    "Kalderath/Dillendirilmeyen Yerler/Ay dağı.md",
-    "Kalderath/Dillendirilmeyen Yerler/6 gelin geçidi.md",
-    "Kalderath/Dillendirilmeyen Yerler/4 yapraklı yonca ovaları.md",
-    "Canavarlar/X - S/X/Chaos/Kaos.md",
-    "Canavarlar/X - S/X/Yüzsüz/FRRExoFWQAEjUua.jpg",
-    "Canavarlar/X - S/X/Yüzsüz",
-    "Kalderath/Efsanevi isimler/Zaman büyücüsü - Jareth",
-    "Kalderath/Efsanevi isimler/Zalazar",
-    "Kalderath/Efsanevi isimler/Keder",
-    "Kalderath/Efsanevi isimler/Baron Triton Vadoll",
-    "Canavarlar/XXX - X+/XXX/Sağ ve Sol/FXhmLytUsAE8anI.jpg",
-    "Kalderath/Savaşlar/Yüzbinler Savaşı",
-    "23 Dev Tanrı/Ölüm Tanrısı/37af8f74f2f10d9c23290e713593d2a5.jpg",
-    "Canavarlar/XXX - X+/XXX/Sağ ve Sol/FY0zfqwaMAEME66.jpg",
-    "İsimler",
-    "Canavarlar/X - S/SSS+/Kütüphaneci",
-    "Canavarlar/X - S/SSS+/Alzaren",
-    "0 Noktası Ve Olaylar/Yaratılış/Deli Tanrı ve 7 Günah/Deli Tanrı ve 7 Günah.canvas",
+    "Canavarlar/X - S/SSS/Deer/Geyik.md",
     "0 Noktası Ve Olaylar/Olay Örgüsü.canvas",
+    "Kalderath/Yadigarlar/Mantar.md",
+    "Kalderath/Öteki Boyutlar/Pandemonium/Pandemonium Rütbe/3-) Nephilimler/Görsel/Nephthys - Nephele - Nephil.jpg",
+    "Kalderath/Öteki Boyutlar/Pandemonium/Pandemonium Rütbe/4-) Abyssal High Priest/Abyssal High Priest.md",
+    "Kalderath/Öteki Boyutlar/Pandemonium/Pandemonium Rütbe/5-) Archdemons/Archdemons.md",
+    "Kalderath/Öteki Boyutlar/Pandemonium/Pandemonium Rütbe/5-) Archdemons/Görsel/Sariel.jpg",
+    "Kalderath/Öteki Boyutlar/Pandemonium/Pandemonium Rütbe/5-) Archdemons/Görsel/Malphasius.jpg",
+    "Kalderath/Öteki Boyutlar/Pandemonium/Pandemonium Rütbe/5-) Archdemons/Görsel/Lilith.jpg",
+    "Kalderath/Öteki Boyutlar/Pandemonium/Pandemonium Rütbe/5-) Archdemons/Görsel/Beliaramon.jpg",
+    "Kalderath/Öteki Boyutlar/Pandemonium/Pandemonium Rütbe/5-) Archdemons/Görsel/Agorath.jpg",
+    "Kalderath/Öteki Boyutlar/Pandemonium/Pandemonium Rütbe/5-) Archdemons/Görsel/Abbadon.jpg",
+    "Kalderath/Öteki Boyutlar/Pandemonium/Pandemonium Rütbe/3-) Nephilimler/Nephilimler.md",
+    "Malphasius 1.jpg",
+    "Abbadon 2.jpg",
+    "Abbadon 1.jpg",
+    "Kalderath/Öteki Boyutlar/Pandemonium/Pandemonium Rütbe/2-) Fallen Angels/Fallen Angels.md",
+    "Kalderath/Öteki Boyutlar/Pandemonium/Pandemonium Rütbe/8-) Belial Ordusu/Belial Ordusu.md",
+    "Kalderath/Öteki Boyutlar/Pandemonium/Pandemonium Rütbe/14-) İncubus Sucubbus/Görsel",
+    "Kalderath/Öteki Boyutlar/Pandemonium/Pandemonium Rütbe/13-) Azazeller/Görsel",
+    "Kalderath/Öteki Boyutlar/Pandemonium/Pandemonium Rütbe/12-) Lilimler/Görsel",
+    "Kalderath/Öteki Boyutlar/Pandemonium/Pandemonium Rütbe/11-) Demonlar/Görsel",
+    "Kalderath/Öteki Boyutlar/Pandemonium/Pandemonium Rütbe/10-) İblisler/Görsel",
+    "Kalderath/Öteki Boyutlar/Pandemonium/Pandemonium Rütbe/9-) Asurlar/Görsel",
+    "Kalderath/Öteki Boyutlar/Pandemonium/Pandemonium Rütbe/8-) Belial Ordusu/Görsel",
+    "Kalderath/Öteki Boyutlar/Pandemonium/Pandemonium Rütbe/7-) İblis Şovalyeleri/Görsel",
+    "Kalderath/Öteki Boyutlar/Pandemonium/Pandemonium Rütbe/6-) Belphegorlar/Görsel",
+    "Kalderath/Öteki Boyutlar/Pandemonium/Pandemonium Rütbe/3-) Nephilimler/Görsel",
+    "Kalderath/Öteki Boyutlar/Pandemonium/Pandemonium Rütbe/1-) Kehrebhrim/Kehrebhrim.md",
+    "Kalderath/Öteki Boyutlar/Pandemonium/Pandemonium Rütbe/13-) Azazeller/Azazeller.md",
+    "Kalderath/Öteki Boyutlar/Pandemonium/Pandemonium Rütbe/12-) Lilimler/Lilimler.md",
+    "Kalderath/Öteki Boyutlar/Pandemonium/Pandemonium Rütbe/11-) Demonlar/Demonlar.md",
+    "Kalderath/Öteki Boyutlar/Pandemonium/Pandemonium Rütbe/14-) İncubus Sucubbus/İncubus Succubus.md",
+    "Kalderath/Öteki Boyutlar/Pandemonium/Pandemonium Rütbe/10-) İblisler/İblisler.md",
+    "Kalderath/Öteki Boyutlar/Pandemonium/Pandemonium Rütbe/9-) Asurlar/Asurlar.md",
+    "Kalderath/Öteki Boyutlar/Pandemonium/Pandemonium Rütbe/7-) İblis Şovalyeleri/İblis Şovalyeleri.md",
+    "Kalderath/Öteki Boyutlar/Pandemonium/Pandemonium Rütbe/6-) Belphegorlar/Belphegorlar.md",
+    "Kalderath/Öteki Boyutlar/Pandemonium/Pandemonium Eski/Pandemonium Eski - Görseller.md",
+    "Kalderath/Öteki Boyutlar/Pandemonium/Pandemonium Lore/Pandemonium Lore.md",
+    "0 Noktası Ve Olaylar/First One.md",
+    "0 Noktası Ve Olaylar/Hayata 2. olarak doğmuş olan.md",
+    "Kalderath/Yargıçlar/Holfgar Yargıcı/Holfgar Yargıcı.md",
+    "Kalderath/Yargıçlar/Paflegonya Yargıcı/Paflegonya Yargıcı.md",
+    "Kalderath/Artifactler/Akrep ve Yelkovan/Akrep ve Yelkovan.md",
+    "Nine Hells/Güneş ve Ay/Ay/Ay Bebeği.md",
+    "İsimler/İsimler.md",
+    "Canavarlar/X - S/X/Ant eater/Karınca Yiyen.md",
+    "0 Noktası Ve Olaylar/Yaratılış/Deli Tanrı ve 7 Günah/Deli Tanrı ve 7 Günah.canvas",
     "0 Noktası Ve Olaylar/Olay Örgüsü 1.canvas"
   ]
 }

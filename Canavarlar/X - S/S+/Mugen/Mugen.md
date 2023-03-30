@@ -14,11 +14,11 @@ Mugen yaşadığı hayal kırıklıklarını, nefreti ve hüzünü, kini ve mutl
 ### "Kaybedilen Onurun İntikamı: Mugen'in Yolculuğu"
 
 
-Mugen bu değerlerin hepsine ihanet etmiş ve Kinokaze köyünün bütün bireylerini öldürmüş, sadece kardeşi olan Yaven'i öldürmemiştir. Onuruna leke sürmüş, tek amacı herkesi öldürmek olsada yine değerlerine ihanet edip cesaret yerine korkuyu, görev bilinci yerine sorumsuzluğu, onur yerine onursuzluğu seçmiştir.
+Mugen bu değerlerin hepsine ihanet etmiş ve Kinokaze köyünün bütün bireylerini öldürmüş, sadece kardeşi olan Yaven'i öldürmemiştir. Onuruna leke sürmüş ve tek amacı herkesi öldürmek olsada yine değerlerine ihanet edip cesaret yerine korkuyu, görev bilinci yerine sorumsuzluğu, onur yerine onursuzluğu seçmiştir.
 
-Mugen bütün Kinokazeyi öldürdü fakat tek öldürmediği şey ise kendi küçük kardeşiydi. Onursuz olan Mugen kardeşini öldürmeden çekip gitti.
+Mugen bütün Kinokazeyi öldürdü fakat tek öldürmediği şey ise kendi küçük kardeşiydi. Onursuz olan Mugen, kardeşini öldürmeden çekip gitti.
 
-Mugen'in kardeşini düşündükçe içindeki pişmanlık ve suçluluk hissi artmaya başladı. Bu hisler onu adeta yiyip bitiriyordu ve artık yapacak bir şeyler olduğunu düşünüyordu. Kardeşini bulup onunla yeniden bağ kurmak istediği için araştırmalar yapmaya başladı.
+Mugen,kardeşini düşündükçe içindeki pişmanlık ve suçluluk hissi artmaya başladı. Bu hisler onu adeta yiyip bitiriyordu ve artık yapacak bir şeyler olmadığını düşünüyordu. Kardeşini bulup onunla yeniden bağ kurmak istediği için araştırmalar yapmaya başladı.
 
 Mugen, kardeşinin nereye gittiğini bulmak için birçok farklı kaynak araştırdı ve sonunda onun bir samuray okulunda eğitim aldığını öğrendi. Mugen, kardeşinin bulunduğu yere gitmek için yola çıktı.
 
