@@ -15,3 +15,8 @@ Bu durum insanlar ve melekler arasındaki gerginliği daha da artırdı. İnsanl
 Savaşın sonunda, her iki taraf da büyük kayıplar verdi. İnsanlar, yıkılan anıtın yanı sıra birçok kral ve asker kaybettiler. Melekler de cennetin bazı bölgelerini kaybettiler ve yüzlerce melek hayatını kaybetti. Ancak, her iki taraf da büyük kayıplarına rağmen savaşı kazanamadı.
 
 Sonuç olarak, Cennet ve Cehennem Savaşı ve sonrasında yaşanan Yüzbinler Savaşı, insanlar ve melekler arasındaki gerginliği artırdı ve iki taraf arasında kalıcı bir düşmanlık oluştu.
+
+![[374820.jpg]]
+![[billy-christian-a0006472.jpg]]
+![[frej-agelii-eh-k0470-d5395-18357-meteorshower-frejagelii.jpg]]
+![[1e5fd479d7116449cc7d43661e6962ad.jpg]]

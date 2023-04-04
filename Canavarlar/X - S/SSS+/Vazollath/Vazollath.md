@@ -1,1 +1,0 @@
-![[Canavarlar/X - S/SSS+/Vazollath/Vazollath.jpg]]

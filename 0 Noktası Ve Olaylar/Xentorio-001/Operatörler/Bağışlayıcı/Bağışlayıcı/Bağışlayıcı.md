@@ -1,0 +1,1 @@
+Bağışlayıcı karakteri de evrenler arası bir varlık olarak kabul edilir, ancak Ölüm karakteri gibi her evrende farklı bir avatarı yoktur. Yani, Bağışlayıcı karakteri tek bir varlık olarak her evrende mevcuttur ve her canlıya ruh vererek yaşamalarını sağlar. Bu şekilde, Bağışlayıcı karakteri evrende hayatın kaynağıdır.

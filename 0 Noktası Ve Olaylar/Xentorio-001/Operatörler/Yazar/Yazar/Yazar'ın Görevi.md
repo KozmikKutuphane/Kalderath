@@ -1,0 +1,1 @@
+Yazar karakteri de evrenler arası bir varlık olarak kabul edilir, ancak Ölüm karakteri gibi her evrende farklı bir avatarı yoktur. Yazar karakteri, her evrende tek bir varlık olarak bulunur ve canlıların yaşayacağı hayatı ve ölümünü yazarak kaderlerini belirler. Böylece, Yazar karakteri evrendeki tüm olayları ve kaderleri sonsuza kadar yazarak, evrenin varoluşuna yön verir.

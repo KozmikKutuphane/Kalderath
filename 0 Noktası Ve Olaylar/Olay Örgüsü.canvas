@@ -23,7 +23,7 @@
 		{"type":"text","text":"Nefret","id":"65a1256832d74744","x":569,"y":-1092,"width":103,"height":98,"color":"1"},
 		{"type":"text","text":"          Balerus                           ","id":"3bb20420e0926c88","x":-2343,"y":-423,"width":207,"height":75,"color":"5"},
 		{"type":"text","text":"          Balerus                           ","id":"3abda230aff906f0","x":-2343,"y":-423,"width":207,"height":75,"color":"5"},
-		{"id":"597755d9d8d881bd","x":-2439,"y":-149,"width":400,"height":400,"type":"file","file":"Kalderath/Öteki Boyutlar/Pandemonium/Pandemonium Lore/Pandemonium Lore.md"}
+		{"id":"597755d9d8d881bd","x":-2439,"y":-149,"width":400,"height":400,"type":"file","file":"Öteki Boyutlar/Pandemonium/Pandemonium Lore/Pandemonium Lore.md"}
 	],
 	"edges":[
 		{"id":"38d46f07c3f5b200","fromNode":"1145fa34f15526ce","fromSide":"bottom","toNode":"47eb82b476c4ef05","toSide":"top"},

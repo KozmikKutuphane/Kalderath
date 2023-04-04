@@ -1,0 +1,1 @@
+![[Tier List/X - S/SSS+/Onoskelis/Onoskelis.jpg]]

@@ -32,7 +32,7 @@
 		{"type":"file","file":"0 Noktası Ve Olaylar/Yaratılış/7 günah görsel/Screenshot_3.png","id":"527053bafbad16e0","x":706,"y":1176,"width":109,"height":112},
 		{"type":"file","file":"0 Noktası Ve Olaylar/Yaratılış/7 günah görsel/Screenshot_6.png","id":"93d45b259fe2388c","x":261,"y":1162,"width":132,"height":113},
 		{"type":"file","file":"0 Noktası Ve Olaylar/Yaratılış/7 günah görsel/Untitled.png","id":"6b3cdfa2011bd2bf","x":-229,"y":-686,"width":400,"height":211},
-		{"id":"4bdeb8aca4951dec","x":-958,"y":755,"width":274,"height":377,"type":"file","file":"Canavarlar/X - S/SSS+/Methuselah/Methuselah.jpeg"}
+		{"type":"file","file":"Tier List/X - S/SSS+/Methuselah/Methuselah.jpeg","id":"4bdeb8aca4951dec","x":-958,"y":755,"width":274,"height":377}
 	],
 	"edges":[
 		{"id":"db32011865648f97","fromNode":"9c4e96f29e35cca5","fromSide":"bottom","toNode":"57630988f7d10b40","toSide":"top"},

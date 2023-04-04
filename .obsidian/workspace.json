@@ -4,22 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "084330d5a503d24a",
+        "id": "26bd0fd470563c57",
         "type": "tabs",
         "children": [
           {
-            "id": "0dffc33b0436d1a5",
+            "id": "7534558c10637bbc",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Kalderath/Öteki Boyutlar/Pandemonium/Pandemonium Rütbe/4-) Abyssal High Priest/Abyssal High Priest.md",
+                "file": "Notlar/Notlar.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "03d61facd4969686",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "99-) Session 1/Z-) Anı kalesi.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Kalderath/Öteki Boyutlar/Pandemonium/Pandemonium Rütbe/4-) Abyssal High Priest/Abyssal High Priest.md",
+                "file": "99-) Session 1/Z-) Anı kalesi.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -108,7 +121,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Kalderath/Öteki Boyutlar/Pandemonium/Pandemonium Rütbe/4-) Abyssal High Priest/Abyssal High Priest.md"
+                "file": "99-) Session 1/Z-) Anı kalesi.md"
               }
             }
           },
@@ -118,11 +131,11 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Kalderath/Öteki Boyutlar/Pandemonium/Pandemonium Rütbe/4-) Abyssal High Priest/Abyssal High Priest.md",
+                "file": "99-) Session 1/Z-) Anı kalesi.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
-                "showSearch": false,
+                "showSearch": true,
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
@@ -147,56 +160,56 @@
       "publish:Değişiklikleri yayınla": false
     }
   },
-  "active": "0dffc33b0436d1a5",
+  "active": "d26c34c3a7680818",
   "lastOpenFiles": [
-    "Canavarlar/X - S/SSS/Deer/Geyik.md",
+    "99-) Session 1/Anı kalesi/3fcf5815-fae2-4200-8c03-ce7d3eaddebd.jpg",
+    "99-) Session 1/Anı kalesi/1e5fd479d7116449cc7d43661e6962ad 1.jpg",
+    "99-) Session 1/Anı kalesi/billy-christian-a0006472 1.jpg",
+    "99-) Session 1/Anı kalesi/frej-agelii-eh-k0470-d5395-18357-meteorshower-frejagelii 1.jpg",
+    "99-) Session 1/Anı kalesi/374820 1.jpg",
+    "99-) Session 1/Anı kalesi/1e5fd479d7116449cc7d43661e6962ad.jpg",
+    "99-) Session 1/Anı kalesi/frej-agelii-eh-k0470-d5395-18357-meteorshower-frejagelii.jpg",
+    "99-) Session 1/Anı kalesi/billy-christian-a0006472.jpg",
+    "99-) Session 1/Anı kalesi/374820.jpg",
+    "99-) Session 1/Anı kalesi/Keder.png",
+    "99-) Session 1/Anı kalesi/Books and Art.jpg",
+    "99-) Session 1/Z-) Anı kalesi.md",
+    "99-) Session 1/Anı kalesi",
+    "Paflegonya/Paflegonya.md",
+    "Paflegonya/Loncalar.md",
+    "Paflegonya/Hukuk sistemi.md",
+    "Kalderath/Savaşlar/Cennet ve Cehennem savaşı/Cennet ve Cehennem savaşı.md",
+    "Tier List/X - S/SS+/Bell - Israfil/Çan - İsrafil.md",
+    "Kalderath/Savaşlar/Yüzbinler Savaşı/Yüzbinler savaşı.md",
+    "Notlar/Notlar.md",
+    "Kalderath/Efsanevi isimler/Zalazar/Zalazar.md",
+    "Paflegonya/Tarikatlar.md",
+    "Tier List/X - S/X/Kram'gur/Başlıksız.md",
+    "Tier List/X - S/X/Cosmobux/Kozmos arısı.md",
+    "Kalderath/Efsanevi isimler/Zaman büyücüsü - Merlin/Zaman büyücüsü - Merlin.md",
+    "Paflegonya/Başlıksız 1.md",
+    "Paflegonya/Engizisyon Mahkemeleri.md",
+    "Paflegonya/Bina türleri.md",
+    "Paflegonya/Baskın olan ırkın diğer ırklara karşı bakış açısı.md",
+    "Paflegonya/Başlıksız.md",
+    "99-) Session 1/Bölüm 1.md",
+    "99-) Session 1",
+    "Tier List/A+ - E/A+/Agrona/Agrona.md",
+    "İsimler/Endrimir/Endrimir.md",
+    "İsimler/Gwain/Gwain.md",
+    "İsimler/Alzaren/Alzaren.md",
+    "Kalderath/Efsanevi isimler/Keder/Keder.md",
+    "Kalderath/Efsanevi isimler/Eryndor İgnis's/Eryndor İgnis's.md",
     "0 Noktası Ve Olaylar/Olay Örgüsü.canvas",
-    "Kalderath/Yadigarlar/Mantar.md",
-    "Kalderath/Öteki Boyutlar/Pandemonium/Pandemonium Rütbe/3-) Nephilimler/Görsel/Nephthys - Nephele - Nephil.jpg",
-    "Kalderath/Öteki Boyutlar/Pandemonium/Pandemonium Rütbe/4-) Abyssal High Priest/Abyssal High Priest.md",
-    "Kalderath/Öteki Boyutlar/Pandemonium/Pandemonium Rütbe/5-) Archdemons/Archdemons.md",
-    "Kalderath/Öteki Boyutlar/Pandemonium/Pandemonium Rütbe/5-) Archdemons/Görsel/Sariel.jpg",
-    "Kalderath/Öteki Boyutlar/Pandemonium/Pandemonium Rütbe/5-) Archdemons/Görsel/Malphasius.jpg",
-    "Kalderath/Öteki Boyutlar/Pandemonium/Pandemonium Rütbe/5-) Archdemons/Görsel/Lilith.jpg",
-    "Kalderath/Öteki Boyutlar/Pandemonium/Pandemonium Rütbe/5-) Archdemons/Görsel/Beliaramon.jpg",
-    "Kalderath/Öteki Boyutlar/Pandemonium/Pandemonium Rütbe/5-) Archdemons/Görsel/Agorath.jpg",
-    "Kalderath/Öteki Boyutlar/Pandemonium/Pandemonium Rütbe/5-) Archdemons/Görsel/Abbadon.jpg",
-    "Kalderath/Öteki Boyutlar/Pandemonium/Pandemonium Rütbe/3-) Nephilimler/Nephilimler.md",
-    "Malphasius 1.jpg",
-    "Abbadon 2.jpg",
-    "Abbadon 1.jpg",
-    "Kalderath/Öteki Boyutlar/Pandemonium/Pandemonium Rütbe/2-) Fallen Angels/Fallen Angels.md",
-    "Kalderath/Öteki Boyutlar/Pandemonium/Pandemonium Rütbe/8-) Belial Ordusu/Belial Ordusu.md",
-    "Kalderath/Öteki Boyutlar/Pandemonium/Pandemonium Rütbe/14-) İncubus Sucubbus/Görsel",
-    "Kalderath/Öteki Boyutlar/Pandemonium/Pandemonium Rütbe/13-) Azazeller/Görsel",
-    "Kalderath/Öteki Boyutlar/Pandemonium/Pandemonium Rütbe/12-) Lilimler/Görsel",
-    "Kalderath/Öteki Boyutlar/Pandemonium/Pandemonium Rütbe/11-) Demonlar/Görsel",
-    "Kalderath/Öteki Boyutlar/Pandemonium/Pandemonium Rütbe/10-) İblisler/Görsel",
-    "Kalderath/Öteki Boyutlar/Pandemonium/Pandemonium Rütbe/9-) Asurlar/Görsel",
-    "Kalderath/Öteki Boyutlar/Pandemonium/Pandemonium Rütbe/8-) Belial Ordusu/Görsel",
-    "Kalderath/Öteki Boyutlar/Pandemonium/Pandemonium Rütbe/7-) İblis Şovalyeleri/Görsel",
-    "Kalderath/Öteki Boyutlar/Pandemonium/Pandemonium Rütbe/6-) Belphegorlar/Görsel",
-    "Kalderath/Öteki Boyutlar/Pandemonium/Pandemonium Rütbe/3-) Nephilimler/Görsel",
-    "Kalderath/Öteki Boyutlar/Pandemonium/Pandemonium Rütbe/1-) Kehrebhrim/Kehrebhrim.md",
-    "Kalderath/Öteki Boyutlar/Pandemonium/Pandemonium Rütbe/13-) Azazeller/Azazeller.md",
-    "Kalderath/Öteki Boyutlar/Pandemonium/Pandemonium Rütbe/12-) Lilimler/Lilimler.md",
-    "Kalderath/Öteki Boyutlar/Pandemonium/Pandemonium Rütbe/11-) Demonlar/Demonlar.md",
-    "Kalderath/Öteki Boyutlar/Pandemonium/Pandemonium Rütbe/14-) İncubus Sucubbus/İncubus Succubus.md",
-    "Kalderath/Öteki Boyutlar/Pandemonium/Pandemonium Rütbe/10-) İblisler/İblisler.md",
-    "Kalderath/Öteki Boyutlar/Pandemonium/Pandemonium Rütbe/9-) Asurlar/Asurlar.md",
-    "Kalderath/Öteki Boyutlar/Pandemonium/Pandemonium Rütbe/7-) İblis Şovalyeleri/İblis Şovalyeleri.md",
-    "Kalderath/Öteki Boyutlar/Pandemonium/Pandemonium Rütbe/6-) Belphegorlar/Belphegorlar.md",
-    "Kalderath/Öteki Boyutlar/Pandemonium/Pandemonium Eski/Pandemonium Eski - Görseller.md",
-    "Kalderath/Öteki Boyutlar/Pandemonium/Pandemonium Lore/Pandemonium Lore.md",
-    "0 Noktası Ve Olaylar/First One.md",
-    "0 Noktası Ve Olaylar/Hayata 2. olarak doğmuş olan.md",
-    "Kalderath/Yargıçlar/Holfgar Yargıcı/Holfgar Yargıcı.md",
-    "Kalderath/Yargıçlar/Paflegonya Yargıcı/Paflegonya Yargıcı.md",
-    "Kalderath/Artifactler/Akrep ve Yelkovan/Akrep ve Yelkovan.md",
-    "Nine Hells/Güneş ve Ay/Ay/Ay Bebeği.md",
-    "İsimler/İsimler.md",
-    "Canavarlar/X - S/X/Ant eater/Karınca Yiyen.md",
     "0 Noktası Ve Olaylar/Yaratılış/Deli Tanrı ve 7 Günah/Deli Tanrı ve 7 Günah.canvas",
+    "Xentorio-001/Operatörler/Yazar/Yazar/Yazar ve Truth",
+    "Xentorio-001/Operatörler/Yazar/Yaz",
+    "0 Noktası Ve Olaylar/Xentorio-001/Operatörler/Yazar/Yazar",
+    "0 Noktası Ve Olaylar/Xentorio-001/Operatörler/Bağışlayıcı/Bağışlayıcı",
+    "0 Noktası Ve Olaylar/Xentorio-001/Operatörler/Ölüm/Xentorio-001",
+    "0 Noktası Ve Olaylar/Xentorio-001/Operatörler/Ölüm/Ölüm",
+    "0 Noktası Ve Olaylar/Xentorio-001/Operatörler/Ölüm",
+    "0 Noktası Ve Olaylar/Xentorio-001/Operatörler/Bağışlayıcı",
     "0 Noktası Ve Olaylar/Olay Örgüsü 1.canvas"
   ]
 }

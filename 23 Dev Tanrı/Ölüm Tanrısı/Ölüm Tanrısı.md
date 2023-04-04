@@ -1,5 +1,7 @@
 ![[37af8f74f2f10d9c23290e713593d2a5.jpg]]
 
+### Xentorio-001 / Avatar of Death-001
+
 
 ### Öldükten Sonra
 
